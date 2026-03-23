@@ -21,7 +21,7 @@ Add information on the dataset.
 
 
 <div style="display: flex; align-items: center; gap: 40px;">
-  <img src="/images/logo_snf.png" alt="" height="80">
-  <img src="/images/logo_unibern.png" alt="" height="80">
-  <img src="/images/logo_wti.png" alt="" height="80">
+  <img src="/academic-website/images/logo_snf.png" alt="" height="80">
+  <img src="/academic-website/images/logo_unibern.png" alt="" height="80">
+  <img src="/academic-website/images/logo_wti.png" alt="" height="80">
 </div>
