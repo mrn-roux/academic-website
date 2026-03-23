@@ -27,13 +27,17 @@
           animation-delay: 0.45s;
   border-top: 1px solid var(--global-dark-border-color);
 
-  footer {
+   footer {
     @include clearfix;
     margin-left: auto;
     margin-right: auto;
     margin-top: 1em;
     max-width: 100%;
     padding: 0 1em 1em;
+
+    @include breakpoint($large) {
+      padding-left: calc(#{span(0.5 of 12)} + 1em);
+    }
 
     @include breakpoint($x-large) {
       max-width: $x-large;
