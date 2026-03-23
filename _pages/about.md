@@ -21,8 +21,8 @@ Add information on the dataset.
 
 **Funding & Support**
 
-<div style="display: flex; align-items: center; gap: 20px; max-width: 100%; flex-wrap: wrap;">
-  <img src="/academic-website/images/logo_snf.png" alt="" height="30" style="max-width: 100%;">
-  <img src="/academic-website/images/logo_unibern.png" alt="" height="30" style="max-width: 100%;">
-  <img src="/academic-website/images/logo_wti.png" alt="" height="30" style="max-width: 100%;">
+<div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap; margin-top: 5px;">
+  <img src="/academic-website/images/logo_snf.png" alt="SNF" height="25">
+  <img src="/academic-website/images/logo_unibern.png" alt="Uni Bern" height="25">
+  <img src="/academic-website/images/logo_wti.png" alt="WTI" height="25">
 </div>
