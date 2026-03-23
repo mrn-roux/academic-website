@@ -11,15 +11,15 @@ Published articles
 Manfred Elsig, Kirthana Ganeson, Andrew Lugg and Marine Roux. Trade agreements and the design of democracy-related provisions (TRADEM): The creation of a new data set. _The Review of International Organizations_ (Accepted) 
 
 
-Working papers
+Work in progress
 ======
 
-Manfred Elsig, Kirthana Ganeson, Andrew Lugg and Marine Roux. Implementation of democracy-related provisions in trade agreements: A conceptual note.
+Manfred Elsig, Kirthana Ganeson, Andrew Lugg and Marine Roux. Implementation of democracy-related provisions in trade agreements: A conceptual note. (Working paper)
 
-Kirthana Ganeson. ADD TITLE THESIS 
+Kirthana Ganeson. Strategic norms or normative strategy: Balancing interests and ideals in the design and implementation of democracy-related provisions in EU trade policies and agreements. (Manuscript)
 
 Marine Roux. From design to effects: The limits of democracy promotion in preferential trade agreements. (Manuscript)
 
-Manfred Elsig, Kirthana Ganeson, Marine Roux and Noah Wheatley. Nuanced democracy promotion in international organizations: The case of the World Trade Organization. 
+Manfred Elsig, Kirthana Ganeson, Marine Roux and Noah Wheatley. Nuanced democracy promotion in international organizations: The case of the World Trade Organization. (Working paper)
 
 
