@@ -23,3 +23,4 @@ Marine Roux. From design to effects: The limits of democracy promotion in prefer
 Manfred Elsig, Kirthana Ganeson, Marine Roux and Noah Wheatley. Nuanced democracy promotion in international organizations: The case of the World Trade Organization. (Working paper)
 
 
+<div style="display: flex; flex-wrap: wrap; gap: 20px; margin-bottom: 80px;">
