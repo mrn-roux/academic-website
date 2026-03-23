@@ -17,3 +17,11 @@ Add information on the dataset.
 ======
 - Add information on WTO data collection.
 - Add information on case studies. 
+
+
+
+<div style="display: flex; align-items: center; gap: 40px;">
+  <img src="/assets/images/logo_snf.png" alt="SNF" height="80">
+  <img src="/assets/images/logo_unibern.png" alt="Universität Bern" height="80">
+  <img src="/assets/images/logo_wti.png" alt="World Trade Institute" height="80">
+</div>
